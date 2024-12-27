@@ -1,0 +1,11 @@
+# .gitignore
+
+.venv/
+__pycache__/
+*.pyc
+data/
+output/
+config/
+logs/
+clean_file/
+downloads/
